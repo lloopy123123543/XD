@@ -24,7 +24,7 @@ export default function Header() {
             }}
           ></Image>
           {HeaderMenu && (
-            <div className=" right-0 top-full mt-3 bg-white p-2 rounded-lg grid gap-3">
+            <div className="absolute mt-40 bg-white p-2 rounded-lg grid gap-3">
               <Link href={"/sus"}>
                 <div>Lorem</div>
               </Link>
